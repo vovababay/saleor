@@ -1,0 +1,2 @@
+PERCENTAGE = "percentage"
+FIXED = "fixed"
