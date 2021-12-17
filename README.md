@@ -15,6 +15,7 @@
 <br>
 
 <div align="center">
+
   Join our active, engaged community: <br>
   <a href="https://saleor.io/">Website</a>
   <span> | </span>
